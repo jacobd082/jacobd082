@@ -5,7 +5,6 @@ I mainly do web development, but more recently I am learning and practicing iOS 
 * 🖥️  See my portfolio at [my website](http://jacobdrath.co) 
 * ✉️  You can contact me at [contact@jacobdrath.co](mailto:contact@jacobdrath.co) 
 * 🚀  I'm currently working on [Simple Weather](http://wx.jacobdrath.co) 
-* 🧠  I'm learning Swift and Node.js
 
 <h3>Skills</h3>
 
