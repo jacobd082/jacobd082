@@ -1,5 +1,5 @@
 # Hi 👋 My name is Jacob Drath
-### I'm a web and app developer. 
+### I'm a web and app developer.  
 I mainly do web development, but more recently I am learning and practicing iOS app development with Swift UI. 
 * 🌍  I'm based in Wisconsin 
 * 🖥️  See my portfolio at [my website](http://jacobdrath.co) 
