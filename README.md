@@ -3,7 +3,6 @@
 I mainly do web development, but more recently I am learning and practicing iOS app development with Swift UI. 
 * 🌍  I'm based in Wisconsin 
 * 🖥️  See my portfolio at [my website](http://jacobdrath.co) 
-* ✉️  You can contact me at [contact@jacobdrath.co](mailto:contact@jacobdrath.co)
 
 ## Skills
 ### 📋 Languages
