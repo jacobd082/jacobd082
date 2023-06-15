@@ -19,8 +19,3 @@ I mainly do web development, but more recently I am learning and practicing iOS 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&label=jacobdrath&labelColor=2d57ad)](https://www.facebook.com/jacobdrath/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&label=jacd082&labelColor=C13584)](http://www.instagram.com/jacd082/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@jacobd082) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/18673158/jacob) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&label=jacobd082&labelColor=0c7dc2)](https://www.twitter.com/Jacobd082)
 
-
-## My GitHub Stats
-
-<a href="http://www.github.com/jacobd082"><img src="https://github-readme-stats.vercel.app/api?username=jacobd082&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jacobd082's GitHub stats" /></a><br>
-<a href="https://github.com/jacobd082" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobd082&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
