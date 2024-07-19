@@ -1,6 +1,6 @@
-# Hi 👋 My name is Jacob Drath
-### I'm a developer.  
-I started learning computer programming in 2021 in my free time. Since then, I have started developing my own websites, apps, and extensions. I am fully self-taught, using free resources from the internet. I have come a long way since the start, as I am constantly learning and improving.
+# Hey!
+### I'm a developer for the Web and iOS.  
+I started learning web development in 2021 in my free time. Since then, I have created my own websites, apps, and extensions. I am fully self-taught, using free resources from the internet.
 * 🌍  I'm based in Wisconsin 
 * 🖥️  See my portfolio at [my website](https://jacobdrath.com) 
 
