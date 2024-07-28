@@ -1,6 +1,5 @@
-# Hey!
-### I'm a developer for the Web and iOS.  
-I started learning web development in 2021 in my free time. Since then, I have created my own websites, apps, and extensions. I am fully self-taught, using free resources from the internet.
+## Hello, I'm Jacob!
+* 🧑‍💻  I'm a hobbyist full-stack web and iOS developer.
 * 🌍  I'm based in Wisconsin 
 * 🖥️  See my portfolio at [my website](https://jacobdrath.com) 
 
